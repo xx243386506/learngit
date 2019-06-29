@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 Happy
 Tao yi xin wo ai ni
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
